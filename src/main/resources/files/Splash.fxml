@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.Label?>
+
+<AnchorPane prefHeight="720.0" prefWidth="1100.0"
+            xmlns="http://javafx.com/javafx/17"
+            xmlns:fx="http://javafx.com/fxml">
+
+    <children>
+        <Label layoutX="200" layoutY="180"
+               text="Welcome to CSC325 Firebase App"
+               style="-fx-font-size: 20px; -fx-font-weight: bold;">
+        </Label>
+    </children>
+
+</AnchorPane>
